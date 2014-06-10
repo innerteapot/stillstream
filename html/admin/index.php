@@ -10,7 +10,7 @@
 		<h2>Host Functions</h2>
 		<p>
 			<a href="http://stillstream.com/repository">Download From Master Repository</a> - username/password same as for this page</a><br />
-			<a href="assets/empty.mp3">Download Big Empty MP3 File For Voiceovers (approx 55 MB)</a><br />
+			<!-- a href="assets/empty.mp3">Download Big Empty MP3 File For Voiceovers (approx 55 MB)</a><br / -->
 			<a href="artists.php">Show Commercial Artists Who Have Signed Online Waiver</a><br />
 		</p>
 
@@ -23,12 +23,6 @@
 		<h2>Email Functions</h2>
 		<p>
 			<a href="hostemail.php">Send Email To StillStream Hosts</a><br />
-		</p>
-
-		<h2>Archives Functions</h2>
-		<p>
-			<a href="archives-entry.php">Upload New File To Archives</a><br />
-			<a href="archives-errorlog.php">View Archives Upload Error Log</a><br />
 		</p>
 
 		<h2>News Functions</h2>
